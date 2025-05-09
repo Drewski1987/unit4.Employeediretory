@@ -16,5 +16,17 @@
   "devDependencies": {
     "supertest": "^7.1.0",
     "vitest": "^3.0.9"
-  }
+  },
+  "version": "1.0.0",
+  "description": "A local organization wants to create an application that allows them to manage their employees. You are tasked with creating a proof-of-concept API using placeholder data.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drewski1987/unit4.Employeediretory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drewski1987/unit4.Employeediretory/issues"
+  },
+  "homepage": "https://github.com/Drewski1987/unit4.Employeediretory#readme"
 }
